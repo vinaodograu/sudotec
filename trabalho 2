@@ -1,0 +1,32 @@
+<html>
+    <head>
+<title>document</title>
+    </head>
+    <body>
+        <table></table>
+        <tr>
+    <table border="2"><td>Link para pagina 1</td></table>
+    <table border="2"><td>Link para pagina 2</td></table>
+    <table border="2"><td>Link para pagina 3</td></table>
+    <table border="2"><td>Link para pagina 4</td></table>
+     </tr>
+    </table>
+    <table>
+<tr>
+    <table border="2">
+        <td><h1>TEXTO GRANDE</h1></td>
+    
+    </table>
+</table>
+</tr>
+
+
+
+
+
+
+
+
+
+    </body>
+</html>
