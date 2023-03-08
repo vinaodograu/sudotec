@@ -1,0 +1,32 @@
+<html>
+    <head>
+
+    </head>
+
+    <h1>matematica</h1>
+    <body>
+        <fieldset> <legend>matematica</legend><img src="caneta.jpg" width="500" height=400"" alt="manuel gome">
+            <br><br>
+        <label>
+            3+3=
+        </label>
+        <input type="text">
+        <br><br>
+<label>
+    10/3=
+</label>
+<input type="text">
+<br><br>
+<label>
+    5*2=
+</label>
+<input type="text">
+<br><br>
+<label>Essa tarafe foi dificil ?</label>
+<input type="range">
+
+        </fieldset>
+        
+
+    </body>
+</html>
